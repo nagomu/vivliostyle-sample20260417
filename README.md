@@ -3,7 +3,7 @@
 **環境**
 
 - Node.js: v22.14.0
-- @vivliostyle/cli: 10.5.1
+- @vivliostyle/cli: 10.5.0
 - @vivliostyle/core: 2.41.0
 
 **サンプルの実行**
