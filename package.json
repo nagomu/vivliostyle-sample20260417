@@ -1,6 +1,10 @@
 {
   "name": "vivliostyle-sample20260417",
   "packageManager": "yarn@4.9.1",
+  "scripts": {
+    "preview": "yarn vivliostyle preview -c ./sample/vivliostyle.config.js",
+    "build": "yarn vivliostyle build -c ./sample/vivliostyle.config.js"
+  },
   "dependencies": {
     "@vivliostyle/cli": "^10.5.0"
   }
